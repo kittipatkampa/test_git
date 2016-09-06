@@ -2,3 +2,4 @@ This is dev-2 log
 I have a new line...
 I added this line from dev-3...Will it conflict?
 OK, now I resolved the conflicts between dev-2 and dev-3
+And I add this line after touch dev-2-002.log...see if it will go on into master?
